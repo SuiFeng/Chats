@@ -1,0 +1,5 @@
+Chats README
+
+需要安装node.js的组件：mongodb（https://github.com/christkv/node-mongodb-native）、websocket（https://github.com/miksago/node-websocket-server）。
+
+服务端执行文件：node server.js
